@@ -3,9 +3,12 @@ import helpers.*;
 
 public class Week02 
 {
+    
     public static void main(String[] args)
     {
-        System.out.println(ConsoleColours.CONSOLE_CLEAR);
+    
+    
+        //System.out.println(ConsoleColors.CONSOLE_CLEAR);
 
         System.out.println("==================================");
         System.out.println("CO452 Programming Concepts 2022/23");

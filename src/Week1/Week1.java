@@ -1,5 +1,7 @@
 package Week1;
-import helpers.*;
+
+import helpers.ConsoleColours;
+import helpers.InputReader;
 
 public class Week1 
 {
@@ -18,6 +20,8 @@ public class Week1
 
         String name = InputReader.getString("Enter your name > ");
         System.out.println("Hello " + name);
+
+        
 
     } 
 }
